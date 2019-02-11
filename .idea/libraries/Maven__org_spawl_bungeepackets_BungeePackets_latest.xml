@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.spawl.bungeepackets:BungeePackets:latest">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spawl/bungeepackets/BungeePackets/latest/BungeePackets-latest.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spawl/bungeepackets/BungeePackets/latest/BungeePackets-latest-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spawl/bungeepackets/BungeePackets/latest/BungeePackets-latest-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
